@@ -1,7 +1,7 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "title": "Alchemy Anaytics by Analyticslab",
+  "titleTemplate": "in recognition of the science of alchemy in the field of web analytics",
+  "welcomeText": "# Alchemy Analytics\n\nImagination has no place in modern web analytics. A field full of (big) data and were you need a specialist with a masters degree to analyse the what of human behavoir.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
